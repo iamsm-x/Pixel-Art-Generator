@@ -75,6 +75,9 @@ Simply open the HTML file in any browser:
 index.html
 
 ```
+**You can also view the live hosted version here:**
+
+🔗 https://pixel-generator-webapp.netlify.app/
 
 ### 🚀 **Conclusion**
 
